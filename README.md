@@ -42,7 +42,7 @@ The ER diagram is shown below
 ## ETL Pipeline
 
 ETL Pipeline is built to 
-+ extract data from a directory of Facteus payments transactions, covid tracking data, etc. residing on AWS S3 
++ extract data from a directory of Facteus payments transactions, COVID tracking data, etc. residing on AWS S3 
 + process the data into Spark DataFrames using Apache Spark.
 + transforms Spark DataFrame into analytics tables in parquet format back to S3.
 
