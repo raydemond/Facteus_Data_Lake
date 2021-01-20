@@ -56,7 +56,7 @@ ETL Pipeline is built to
 * Fill in credentials.cfg AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY.
 * Run Facteus Data Lake.ipynb to run the ETL pipeline.
 
-## 5. Project Write Up
+## Project Write Up
 **1. Why Data Lake?**
 * The key data is payments transactions. But what insights we want to drive is undefined. I add covid data into the data lake to examine how covid change people's consumption pattern. We can also put other data into data lake to drive other insights.
 
